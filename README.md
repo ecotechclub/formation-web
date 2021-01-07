@@ -1,9 +1,12 @@
 # formation-web
-+ Download XAMPP:``https://www.apachefriends.org/xampp-files/8.0.0/xampp-windows-x64-8.0.0-2-VS16-installer.exe``
++ Download XAMPP:
+``https://www.apachefriends.org/xampp-files/8.0.0/xampp-windows-x64-8.0.0-2-VS16-installer.exe``
 
-+ Download Composer:``https://getcomposer.org/Composer-Setup.exe``
++ Download Composer:
+``https://getcomposer.org/Composer-Setup.exe``
 
-+ Creating Laravel application`` xampp/htdocs$ composer create-project laravel/laravel formation-web``
++ Creating Laravel application:
+`` xampp/htdocs$ composer create-project laravel/laravel formation-web``
 
 + Download MDB assets:
 ```
